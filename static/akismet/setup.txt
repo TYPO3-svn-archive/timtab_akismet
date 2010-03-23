@@ -1,0 +1,8 @@
+
+
+plugin.tx_timtab.akismet {
+	apiKey =
+	url = buzz.typo3.org
+		# allowed values: keep, hide, delete, dismiss
+	spamAction =  hide
+}
